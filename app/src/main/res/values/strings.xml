@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">tpandroid</string>
+    <string name="categorias">Categorias</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="terror">Terror</string>
+    <string name="cienciaficcion">Ciencia Ficcion</string>
+    <string name="fantasia">Fantasia</string>
+    <string name="policial">Policial</string>
+    <string name="romance">Romance</string>
+    <string name="aventuras">Aventuras</string>
+    <string name="tapaLibro">Libro</string>
+    <string name="tituloLibros">Título: </string>
+    <string name="autorLibros">Autor: </string>
+    <string name="editorialLibros">Editorial: </string>
+    <string name="agregarFavoritos">Agregar a Favoritos</string>
+    <string name="eliminarFavoritos">Eliminar de Favoritos</string>
+</resources>
